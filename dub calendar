@@ -1,196 +1,149 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ChatGPT Anime Scheduler//EN
+CALSCALE:GREGORIAN
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-1@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260404T120000
 DTEND:20260404T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 1
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 1
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-2@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260411T120000
 DTEND:20260411T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 2
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 2
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-3@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260418T120000
 DTEND:20260418T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 3
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 3
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-4@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260425T120000
 DTEND:20260425T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 4
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 4
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-5@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260502T120000
 DTEND:20260502T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 5
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 5
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-6@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260509T120000
 DTEND:20260509T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 6
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 6
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-7@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260516T120000
 DTEND:20260516T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 7
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 7
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-8@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260523T120000
 DTEND:20260523T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 8
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 8
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-9@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260530T120000
 DTEND:20260530T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 9
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 9
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-10@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260606T120000
 DTEND:20260606T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 10
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 10
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-11@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260613T120000
 DTEND:20260613T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 11
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 11
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-12@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260620T120000
 DTEND:20260620T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 12
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 12
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-13@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260627T120000
 DTEND:20260627T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 13
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 13
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-14@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260704T120000
 DTEND:20260704T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 14
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 14
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-15@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260711T120000
 DTEND:20260711T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 15
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 15
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-16@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260718T120000
 DTEND:20260718T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 16
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 16
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-17@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260725T120000
 DTEND:20260725T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 17
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 17
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-18@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260801T120000
 DTEND:20260801T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 18
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 18
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-19@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260808T120000
 DTEND:20260808T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 19
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 19
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-20@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260815T120000
 DTEND:20260815T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 20
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 20
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-21@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260822T120000
 DTEND:20260822T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 21
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 21
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-22@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260829T120000
 DTEND:20260829T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 22
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 22
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-23@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260905T120000
 DTEND:20260905T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 23
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 23
 END:VEVENT
+
 BEGIN:VEVENT
-UID:daemons-shadow-realm-24@chatgpt
-DTSTAMP:20260404T174824Z
 DTSTART:20260912T120000
 DTEND:20260912T120000
-SUMMARY:Daemons of the Shadow Realm Dub – Episode 24
-DESCRIPTION:Watch on Crunchyroll
+SUMMARY:Daemons of the Shadow Realm English Dub EP 24
 END:VEVENT
+
 END:VCALENDAR
